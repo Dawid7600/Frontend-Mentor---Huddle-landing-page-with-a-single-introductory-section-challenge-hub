@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@400;600&display=swap');
+
+:root{
+  --violet: hsl(257, 40%, 49%);
+  --soft-magneta: hsl(300, 69%, 71%);
+}
+
+body{
+  background-color: var(--violet);
+    font-family:"Open Sans", sans-serif;
+    font-weight: 400;
+    margin: 1rem;
+ 
+}
+.container{
+  text-align: center;
+  padding: 10%;
+  color: #fff;
+  line-height: 1.5;
+  position: relative;
+  z-index: 1;
+}
+
+.background-mobile{
+  position: absolute;
+  z-index: -1;
+  left:-15px;
+ top: -15px;
+}
+
+.left{
+  text-align: start;
+}
+
+.logo{
+  width: 15vh;
+}
+
+.mockup{
+width: 100%; 
+margin: 2.5rem 0;
+}
+
+#btn-register{
+  padding:15px 90px;
+  border-radius: 25px;
+  border: none;
+  color: var(--violet);
+}
+
+.socials{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+}
+
+.socials button{
+  border-radius:50%;
+  color: #fff;
+  padding: 5px;
+  background: none;
+  border: 1px solid white;
+  margin: 0 5px;
+
+}
