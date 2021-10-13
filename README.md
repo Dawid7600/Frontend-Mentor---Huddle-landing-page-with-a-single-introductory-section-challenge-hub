@@ -23,11 +23,12 @@ Users should be able to:
 ### Screenshot
 
 ![Mobile Version](./screenshots/mobile-version.png)
+![Desktop Version](./screenshots/desktop-version.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/Dawid7600/Frontend-Mentor---Huddle-landing-page-with-a-single-introductory-section-challenge-hub)
+- Live Site URL: [GitHub](https://dawid7600.github.io/Frontend-Mentor---Huddle-landing-page-with-a-single-introductory-section-challenge-hub/)
 
 ## My process
 
